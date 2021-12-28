@@ -1,4 +1,4 @@
-# Código Limpo Javascript em Portugês do Brasil Adaptado para o Formato de Ebook
+# Código Limpo Javascript em Portugês do Brasil Adaptado para o Formato de Ebook (1/4 Concluído)
  
 Obra original:
 [github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
